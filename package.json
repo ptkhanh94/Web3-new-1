@@ -1,0 +1,23 @@
+{
+  "name": "web3-new-1",
+  "version": "1.0.0",
+  "description": "get some sample for code",
+  "homepage": "https://github.com/ptkhanh94/Web3-new-1/tree/master",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ptkhanh94/Web3-new-1.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "callingmyname2": "^1.0.5",
+    "give-advice-10th": "^1.0.3",
+    "node": "^21.7.0",
+    "skyler-first-code": "^1.0.2"
+  }
+}
